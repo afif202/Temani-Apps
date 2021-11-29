@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TemaniApps</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="no_like">1.8 K Likes</string>
+    <string name="nama_org">Joko</string>
+    <string name="desc">Mobil baru gw nih, senggol dong</string>
+
+
+</resources>
